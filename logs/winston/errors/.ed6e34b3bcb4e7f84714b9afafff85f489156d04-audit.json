@@ -1,0 +1,135 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\.ed6e34b3bcb4e7f84714b9afafff85f489156d04-audit.json",
+  "files": [
+    {
+      "date": 1687642967356,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-25-06-03-error.log",
+      "hash": "209e4cd37af1469882ac23f7dbe920d1920b4eebe030f41693cf640afa4af288"
+    },
+    {
+      "date": 1687717328469,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-26-06-00-error.log",
+      "hash": "ff31e5287bcec0c5e65b9c96893266bdef8d4640971aacd5738db4f6938ef9f9"
+    },
+    {
+      "date": 1687859647978,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-15-error.log",
+      "hash": "246cae24f0b4a0148c8f35799a094a9dd6f7f1ee142081157f41ffbdc0f7a12c"
+    },
+    {
+      "date": 1687863124194,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-16-error.log",
+      "hash": "76af9e57d3059424d01c3e8b18f576e632c2fc44003b31c8e09c33e5f96d58fe"
+    },
+    {
+      "date": 1687864143670,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-17-error.log",
+      "hash": "06423aa506c2528589c60bb72fbe85d835dd55bc42e0c14cef6942186bfc4b88"
+    },
+    {
+      "date": 1687867539004,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-18-error.log",
+      "hash": "045e25f1bcac520a6843cea44e15b62b0b469dedc2af35d0479b5d1646ee00a5"
+    },
+    {
+      "date": 1687871039559,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-19-error.log",
+      "hash": "48786a5ab035c238b8a15e664c0e45102ff79a397dd6882142aac07f1c8b6d3f"
+    },
+    {
+      "date": 1687874406323,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-20-error.log",
+      "hash": "7c41f606a772d4bd0f70c30bc132dcfc762ee16ee4c6943c854d675fc83e52dd"
+    },
+    {
+      "date": 1687880262982,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-21-error.log",
+      "hash": "0de501dd89e33ab80562bbb678bdafe890d941e00939c7a845420aa021d18e9b"
+    },
+    {
+      "date": 1687882317125,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-22-error.log",
+      "hash": "59a68f454ca93c149cbea3428fd5761c5f34c089a669c8d75695040b3021db07"
+    },
+    {
+      "date": 1687885236308,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-27-06-23-error.log",
+      "hash": "654e931debba08e45d018925636c9e7d165a550c7329b9412be5c468652c8c87"
+    },
+    {
+      "date": 1687889583721,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-28-06-00-error.log",
+      "hash": "27ca9fec0bc0bfe44b080651046012841f64bfe8355563607ada08f350ecaa75"
+    },
+    {
+      "date": 1687893510756,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-28-06-01-error.log",
+      "hash": "43ca3adbf18b18d401b0418d45c09576afa4330bc70d0884c545654fa07746e3"
+    },
+    {
+      "date": 1687903630535,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-28-06-04-error.log",
+      "hash": "9923f9b111fc701b3182353aa891f151fd60a5d9c2debcd2d85142db3979833b"
+    },
+    {
+      "date": 1687906862526,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-28-06-05-error.log",
+      "hash": "326fc366fd51a4009caa79c50c5e2c4fd60fbbeee309e93af11e6209b8806a58"
+    },
+    {
+      "date": 1687910936086,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-28-06-06-error.log",
+      "hash": "eaaf09e9800cedfbbb43e1a07a2a39c0d4379669be82f229e1e14739ffcb0681"
+    },
+    {
+      "date": 1687966965930,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-28-06-21-error.log",
+      "hash": "2a5aef459804322ca72f00142b5dad0b15b4870ab0987f03065dc41aca36945e"
+    },
+    {
+      "date": 1687969605018,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-28-06-22-error.log",
+      "hash": "e6f6f453af2d167ce9ed50efa6a77ef21d00cc4270ab7baf54448bec13c2f952"
+    },
+    {
+      "date": 1687973037300,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-28-06-23-error.log",
+      "hash": "988424cf5cfa9e193cec586b9cd6c87a9cdd7919c0c5a647a7795eb40cdd5419"
+    },
+    {
+      "date": 1688068458649,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-30-06-01-error.log",
+      "hash": "4bfd3f304be120e7f567a9f221a6cdb52bffa2b47a928916b5b3e4fc5cd96ed7"
+    },
+    {
+      "date": 1688068945946,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-30-06-02-error.log",
+      "hash": "fea137d8268207ec723b87737f3bd96c74a02f634084049222f2eea05d6c8256"
+    },
+    {
+      "date": 1688072409942,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-30-06-03-error.log",
+      "hash": "dddad6d624ec1b7d12dea79064292091174e0dbadfef0981f0e4e65e359b9b80"
+    },
+    {
+      "date": 1688076069755,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-30-06-04-error.log",
+      "hash": "3fd526c8e1718de2f8c4e3025bda0ebc1f18ad2678d62f5ad145442765e1add0"
+    },
+    {
+      "date": 1688140259370,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-30-06-21-error.log",
+      "hash": "8bf876f765d2548b0632a01e6c11b07b624af09a7d6a8775bf28c9484f5d3ea2"
+    },
+    {
+      "date": 1688141214053,
+      "name": "C:\\Users\\Mahee\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-4\\logs\\winston\\errors\\um-2023-30-06-22-error.log",
+      "hash": "49a6b0ff2b689189e525bbcec91c809068c8b7286e5b448353a54973392661f9"
+    }
+  ],
+  "hashType": "sha256"
+}

@@ -1,0 +1,90 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\.981a0d1b1e22b6ff09377beaf8b4f8339a453f9b-audit.json",
+  "files": [
+    {
+      "date": 1686954811620,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-04-error.log",
+      "hash": "fdd509c66d0313e0e88ec00b5c06d418b6e74e3964d801f96a2691a3846c1671"
+    },
+    {
+      "date": 1686956402613,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-05-error.log",
+      "hash": "43c4a5e28b7bf7090c5038623d20b4930f11c17da353d1ea11fd57ac8c7289dd"
+    },
+    {
+      "date": 1686961060885,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-06-error.log",
+      "hash": "59ec6e4ce93b30c5561edd335e1c4905aaa5f76dd2a853f8a9f196f220a79127"
+    },
+    {
+      "date": 1686963624045,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-07-error.log",
+      "hash": "502329a892587ca4d8288968862871f07ab71e9a6e3c062f5c783b14d5446cf2"
+    },
+    {
+      "date": 1686967441330,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-08-error.log",
+      "hash": "aa714ce949c0eaa0e1a423f74b49c1c2a6d1344fabc4981cc96421179bd24fb6"
+    },
+    {
+      "date": 1686970827033,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-09-error.log",
+      "hash": "7892af0c4a8256fc1cac80ebb3f94976f1118ce0e790e01294f13b8cf0f744bf"
+    },
+    {
+      "date": 1686974474580,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-10-error.log",
+      "hash": "95c18015fb550536f868379cf01374a7ca3d3b1dcfad46ef8ebfb04cff1e9ccb"
+    },
+    {
+      "date": 1686978731841,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-11-error.log",
+      "hash": "7907c64fe7bf4280ef36bff1f822378455e15f167eecd54676f030938424e3e0"
+    },
+    {
+      "date": 1686981717854,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-12-error.log",
+      "hash": "77d3be825db945d0e0f517fcb8fb9f3d72cc2c4c03f7df969ba35411c48bbbba"
+    },
+    {
+      "date": 1687012968958,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-20-error.log",
+      "hash": "ced23321f549d0de5cf031cdc5bf273ae3fb75202c3ea147431c87c89b14959c"
+    },
+    {
+      "date": 1687014110498,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-21-error.log",
+      "hash": "7a5d49e0bc059c699648c5188e000661fb17b612ed8426a0a6b07669bb60f62b"
+    },
+    {
+      "date": 1687017906318,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-22-error.log",
+      "hash": "82545ce1a81b46efea32e2981fbbf1e39cd07719e6b765edec30ee28108efd92"
+    },
+    {
+      "date": 1687021622032,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-17-06-23-error.log",
+      "hash": "6061a806291b060c13720d0f7c7dc18e45ee7d62ed33781b4dd949c3d58b8a00"
+    },
+    {
+      "date": 1687024995271,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-18-06-00-error.log",
+      "hash": "153200dbdd25a23d328d5e48c34a4ff86a585d2ec5981e9a89ea4fdbd2b58ca0"
+    },
+    {
+      "date": 1687028428841,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-18-06-01-error.log",
+      "hash": "667fe9ebc46b1c2c4593ca7faee3de65504b3c3bc69e0bb1c25b4768f5d958e8"
+    },
+    {
+      "date": 1687034035916,
+      "name": "C:\\Users\\jahid\\Desktop\\NEXT_WEB_COURSE\\assignments\\assignment-3\\logs\\winston\\errors\\um-2023-18-06-02-error.log",
+      "hash": "141cdc6b7a944279a47fc4821e41cf9f8d2089507da845460d59432528370723"
+    }
+  ],
+  "hashType": "sha256"
+}

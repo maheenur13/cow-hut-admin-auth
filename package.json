@@ -2,7 +2,9 @@
   "name": "cow-hut",
   "version": "1.0.0",
   "description": "",
-  "main": "src/server.ts",
+  "engines": {
+    "node": ">=16"
+  },
   "scripts": {
     "start": "node dist/server.js",
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
